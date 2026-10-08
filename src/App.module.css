@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nav {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.Link {
+  text-decoration: none;
+  color: rgb(255, 9, 9);
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.Link:hover {
+  color: rgb(13, 0, 255);
+}
+
